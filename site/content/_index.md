@@ -1,7 +1,7 @@
 ---
 title: Hardworking Handyman Ready For Action
 subtitle: Adelaide Metro Area
-image: /img/home-jumbotron.jpg
+image: img/adelaide-handyman-services.jpg
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
