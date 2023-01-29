@@ -9,5 +9,5 @@ values:
       Below is a picture of a small project we were asked to complete. 
 
       It was done by myself over a single weekend, granted it was the easter long weekend but you can see the craftsmanship and professionalism on display right here on a fairly large greenhouse.
-    imageUrl: img/maxresdefault.jpg
+    imageUrl: img/smallconsevatory.jpg
 ---
