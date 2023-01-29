@@ -4,10 +4,14 @@ subtitle: Adelaide Metro Area
 image: img/adelaide-handyman-services.jpg
 blurb:
   heading: Why Use Garths Handyman Services?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  text: >-
+    If you need something that needs a good pounding or drilling then I am your
+    man.
+
+    I work in and around the Adelaide metropolitan area & have years of experience in providing a satisfying result. 
+
+
+    I get extreme pleasure seeing my clients well satisfied. Ladies receive a 20 percent discount.
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
