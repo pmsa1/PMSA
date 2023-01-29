@@ -6,8 +6,8 @@ values:
     text: >
       If I commit to a job then I see it through. Hard work at a fair price.
 
-      Below is a picture of a small project we were asked to complete. 
+      Above is a picture of a small project we were asked to complete. 
 
-      It was done by myself over a single weekend, granted it was the easter long weekend but you can see the craftsmanship and professionalism on display right here on a fairly large greenhouse.
+      It was done by myself over a single weekend, granted it was the Easter long weekend but you can see the craftsmanship and professionalism on display right here on a fairly large greenhouse.
     imageUrl: img/smallconsevatory.jpg
 ---
