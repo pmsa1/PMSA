@@ -13,16 +13,12 @@ blurb:
 
     I get extreme pleasure seeing my clients well satisfied. Ladies receive a 20 percent discount.
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: What I offer
+  text: Any form of basic structural maintenance on the average Adelaide home from
+    replacing a door lock to full pressure test of your bed to eliminate pesky
+    squeaks, I am here to be of service.
 products: []
 values:
-  heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: Locations Serviced
+  text: I provide services up to and including 25km from the Adelaide CBD.
 ---
