@@ -12,5 +12,6 @@ intro:
 products: []
 values:
   heading: Locations Serviced
-  text: I provide services up to and including 20km from the Adelaide CBD.
+  text: Operating in the Blackwood area, provide property maintenance services up
+    to  20km from the Adelaide CBD.
 ---
