@@ -3,7 +3,7 @@ title: Handyman & Gardening Services
 subtitle: Adelaide Metro Area
 image: img/adelaide-handyman-services.jpg
 blurb:
-  heading: Why Use Garths Handyman Services?
+  heading: Why Use Garth's Handyman Services?
   text: Providing Handyman and Gardening Services in the Adelaide metropolitan
     area with years of experience achieving great results for the customer.
 intro:
