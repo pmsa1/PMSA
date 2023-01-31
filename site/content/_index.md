@@ -7,7 +7,7 @@ blurb:
   text: Providing Handyman and Gardening Services in the Adelaide metropolitan
     area with years of experience achieving great results for the customer.
 intro:
-  heading: What I offer
+  heading: Services offerings
   text: Gardening and home/business property maintenance services.
 products: []
 values:
