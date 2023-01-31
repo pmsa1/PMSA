@@ -12,5 +12,5 @@ intro:
 products: []
 values:
   heading: Locations Serviced
-  text: I provide services up to and including 25km from the Adelaide CBD.
+  text: I provide services up to and including 20km from the Adelaide CBD.
 ---
