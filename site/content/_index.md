@@ -4,14 +4,8 @@ subtitle: Adelaide Metro Area
 image: img/adelaide-handyman-services.jpg
 blurb:
   heading: Why Use Garths Handyman Services?
-  text: >-
-    If you need something that needs a good pounding or drilling then I am your
-    man.
-
-    I work in and around the Adelaide metropolitan area & have years of experience in providing a satisfying result. 
-
-
-    I get extreme pleasure seeing my clients well satisfied. Ladies receive a 20 percent discount.
+  text: Providing Handyman and Gardening Services in the Adelaide metropolitan
+    area with years of experience providing great results for the customer.
 intro:
   heading: What I offer
   text: Any form of basic structural maintenance on the average Adelaide home from
