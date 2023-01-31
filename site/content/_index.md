@@ -12,6 +12,6 @@ intro:
 products: []
 values:
   heading: Locations Serviced
-  text: Operating in the Blackwood area, provide property maintenance services up
-    to  20km from the Adelaide CBD.
+  text: Operating from Blackwood South Australia and surrounding areas, providing
+    reliable property maintenance services up to 20km from the Adelaide CBD.
 ---
