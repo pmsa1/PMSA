@@ -1,5 +1,5 @@
 ---
-title: Hardworking Handyman Ready For Action
+title: Handyman & Gardening Services
 subtitle: Adelaide Metro Area
 image: img/adelaide-handyman-services.jpg
 blurb:
